@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Dependências Node
+node_modules/
+
+# Arquivos sensíveis
+.env
+
+# Logs
+*.log
+
+# Build / produção
+dist/
+build/
+
+# VSCode configs locais da máquina
+.vscode/
